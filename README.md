@@ -12,6 +12,7 @@
 * React Native;
 * TypeScript;
 * Styled-Components;
+* Teste;
 
 ## :rocket: Como executar 
 * Clone o repositório:
