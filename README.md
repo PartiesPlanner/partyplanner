@@ -11,7 +11,7 @@
 ##  :video_game: Tecnologias Utilizadas 
 * React Native;
 * TypeScript;
-* Styled-Components
+* Styled-Components;
 
 ## :rocket: Como executar 
 * Clone o repositório:
